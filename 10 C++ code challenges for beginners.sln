@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10 C++ code challenges for beginners", "10 C++ code challenges for beginners\10 C++ code challenges for beginners.vcxproj", "{9CA61889-BC4D-42D2-B942-BEB9C575A1DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CA61889-BC4D-42D2-B942-BEB9C575A1DA}.Debug|x64.ActiveCfg = Debug|x64
+		{9CA61889-BC4D-42D2-B942-BEB9C575A1DA}.Debug|x64.Build.0 = Debug|x64
+		{9CA61889-BC4D-42D2-B942-BEB9C575A1DA}.Debug|x86.ActiveCfg = Debug|Win32
+		{9CA61889-BC4D-42D2-B942-BEB9C575A1DA}.Debug|x86.Build.0 = Debug|Win32
+		{9CA61889-BC4D-42D2-B942-BEB9C575A1DA}.Release|x64.ActiveCfg = Release|x64
+		{9CA61889-BC4D-42D2-B942-BEB9C575A1DA}.Release|x64.Build.0 = Release|x64
+		{9CA61889-BC4D-42D2-B942-BEB9C575A1DA}.Release|x86.ActiveCfg = Release|Win32
+		{9CA61889-BC4D-42D2-B942-BEB9C575A1DA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BC18397-1229-4658-9C2F-DE3F6D40D7CF}
+	EndGlobalSection
+EndGlobal
